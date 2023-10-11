@@ -1,0 +1,49 @@
+# Basic packages
+numpy==1.21.3
+pandas==1.3.4
+matplotlib==3.4.3
+
+# NLP
+nltk==3.8.1
+spacy==3.5.0
+scispacy==0.5.1
+
+# IR
+pyserini==0.21.0
+
+# Json validation
+jsonschema==4.17.3
+
+
+# Crawler
+PyGithub==1.58.1
+scholarly==1.7.11
+
+
+# Preprocessing
+comment-parser==1.2.4
+
+
+# Pytorch
+torch==1.13.0 
+
+# Transformers
+sentence-transformers==2.2.2
+
+# Elasticserach
+elasticsearch==7.17.6
+elasticsearch-dsl==7.4.0
+
+# Raking algorithms
+rank-bm25==0.2.2
+
+# Evaluation
+rankmetrics==1.0.0
+
+# Dense retrieval
+farm-haystack[faiss]==1.15.1
+
+# OpenAI
+openai==0.27.6
+plotly==5.14.1
+
